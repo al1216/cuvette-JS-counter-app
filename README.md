@@ -1,1 +1,1 @@
-# This website is the Assignment for the "JS counter app" for the Cuvette course.
+# This website is the Assignment making "JS counter app" for the Cuvette course.
